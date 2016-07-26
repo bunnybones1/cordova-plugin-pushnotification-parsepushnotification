@@ -15,7 +15,7 @@
 	    <engine name="cordova" version=">=3.0.0" />
 	</engines>
 
-    <js-module src="www/parsepushnotification.js">
+    <js-module src="www/parsepushnotification.js" name="parsepushnotification">
         <clobbers target="window.parsepushnotification" />
     </js-module>
 

@@ -16,7 +16,7 @@
 	</engines>
 
     <js-module src="www/parsepushnotification.js" name="parsepushnotification">
-        <clobbers target="window.parsepushnotification" />
+        <clobbers target="parsepushnotification" />
     </js-module>
 
     <!-- android -->
